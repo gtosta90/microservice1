@@ -1,5 +1,0 @@
-cron:
-- description: "daily summary job"
-  url: /batch
-  target: microservice1
-  schedule: every 24 hours
